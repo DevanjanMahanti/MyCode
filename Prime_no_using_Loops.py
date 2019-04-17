@@ -15,6 +15,8 @@ for i in range(1,30):
             
     if counter== 0:
         print (str(i) + "This is a prime number")
+		
+		/* I love INDIA */
 
     else :
         counter = 0
